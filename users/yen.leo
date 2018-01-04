@@ -49,10 +49,10 @@
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
-<v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
+<v t="yen.20170108171733.14"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170108171733.16" a="E"><vh>W1-W3</vh>
+<v t="yen.20170108171733.16"><vh>W1-W3</vh>
 <v t="leo.20171106181646.1"><vh>大綱</vh>
 <v t="leo.20171106182859.1"><vh>內</vh></v>
 </v>
@@ -66,7 +66,7 @@
 <v t="leo.20171107212923.1"><vh>內</vh></v>
 </v>
 </v>
-<v t="leo.20171106182434.1" a="E"><vh>W4-W6</vh>
+<v t="leo.20171106182434.1"><vh>W4-W6</vh>
 <v t="leo.20171106182715.1"><vh>大綱</vh>
 <v t="leo.20171106182719.1"><vh>內</vh></v>
 </v>
@@ -80,7 +80,7 @@
 <v t="leo.20171107215718.1"><vh>內</vh></v>
 </v>
 </v>
-<v t="leo.20171106184723.1" a="E"><vh>W7-W9</vh>
+<v t="leo.20171106184723.1"><vh>W7-W9</vh>
 <v t="leo.20171106184737.1"><vh>大綱</vh>
 <v t="leo.20171107210621.1"><vh>內</vh></v>
 </v>
@@ -103,9 +103,19 @@
 <v t="leo.20171115232148.2"><vh>內</vh></v>
 </v>
 </v>
-<v t="leo.20171106184741.1"><vh>W10-W12</vh>
+<v t="leo.20171106184741.1" a="E"><vh>W10-W12</vh>
 <v t="leo.20171106184752.1" a="E"><vh>大綱</vh>
 <v t="leo.20171107210654.1"><vh>內</vh></v>
+</v>
+</v>
+<v t="leo.20180104083525.1" a="E"><vh>W13-W15</vh>
+<v t="leo.20180104083549.1" a="E"><vh>大綱</vh>
+<v t="leo.20180104083800.1"><vh>內</vh></v>
+</v>
+</v>
+<v t="leo.20180104083614.1" a="E"><vh>W16-W18</vh>
+<v t="leo.20180104083615.1" a="E"><vh>大綱</vh>
+<v t="leo.20180104083802.1"><vh>內</vh></v>
 </v>
 </v>
 <v t="leo.20170911090822.1"><vh>隨身碟內容介紹</vh>
@@ -186,7 +196,8 @@
 <v t="leo.20171221095054.1"><vh>@edit 20171214.md</vh></v>
 <v t="leo.20171221095056.1"><vh>@edit 20171221.md</vh></v>
 <v t="leo.20171228104244.1"><vh>@edit 20171228.md</vh></v>
-<v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
+<v t="leo.20180104082119.1"><vh>@edit 20180104.md</vh></v>
+<v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
 </v>
@@ -557,7 +568,7 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20171107210654.1"># W10-W12
 
 
-未完待續</t>
+</t>
 <t tx="leo.20171107211659.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -703,6 +714,26 @@ for i in range(10):
 &lt;a href="https://cpa.kmol.info/40623122/raw/8c44c4780d5688e8b6b1e783817384ccfc3e7417c7c6071457ae24b7828391ac?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623122/raw/8c44c4780d5688e8b6b1e783817384ccfc3e7417c7c6071457ae24b7828391ac?m=image/jpeg" width="125" height="200"&gt;&lt;/a&gt;
 &lt;a href="https://cpa.kmol.info/40623122/raw/015172eba9f42cf28a0fef1123d8ae47474d99730fd605bf4737419a2643ed8b?m=image/jpeg"&gt;&lt;img src="https://cpa.kmol.info/40623122/raw/015172eba9f42cf28a0fef1123d8ae47474d99730fd605bf4737419a2643ed8b?m=image/jpeg" width="125" height="200"&gt;&lt;/a&gt;
 </t>
+<t tx="leo.20180104083525.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180104083549.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180104083614.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20180104083615.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180104083800.1"># W13-W15</t>
+<t tx="leo.20180104083802.1"># W16-W18</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
