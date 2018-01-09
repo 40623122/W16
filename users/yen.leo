@@ -80,23 +80,23 @@
 <v t="leo.20171107215718.1"><vh>內</vh></v>
 </v>
 </v>
-<v t="leo.20171106184723.1"><vh>W7-W9</vh>
-<v t="leo.20171106184737.1"><vh>大綱</vh>
+<v t="leo.20171106184723.1" a="E"><vh>W7-W9</vh>
+<v t="leo.20171106184737.1" a="E"><vh>大綱</vh>
 <v t="leo.20171107210621.1"><vh>內</vh></v>
 </v>
-<v t="leo.20171107211659.1"><vh>錄影錄下如何新增網誌</vh>
+<v t="leo.20171107211659.1" a="E"><vh>錄影錄下如何新增網誌</vh>
 <v t="leo.20171107211708.1"><vh>內</vh></v>
 </v>
-<v t="leo.20171107211702.1"><vh>如何拉出完整表單</vh>
+<v t="leo.20171107211702.1" a="E"><vh>如何拉出完整表單</vh>
 <v t="leo.20171107211709.1"><vh>內</vh></v>
 </v>
-<v t="leo.20171107223638.1"><vh>圖表</vh>
+<v t="leo.20171107223638.1" a="E"><vh>圖表</vh>
 <v t="leo.20171107223639.1"><vh>內</vh></v>
 </v>
-<v t="leo.20171108214208.1"><vh>grade</vh>
+<v t="leo.20171108214208.1" a="E"><vh>grade</vh>
 <v t="leo.20171108214211.1"><vh>內</vh></v>
 </v>
-<v t="leo.20171108213951.1"><vh>grade</vh>
+<v t="leo.20171108213951.1" a="E"><vh>grade</vh>
 <v t="leo.20171108213952.1"><vh>內</vh></v>
 </v>
 <v t="leo.20171115232148.1" a="E"><vh>筆記</vh>
@@ -107,13 +107,22 @@
 <v t="leo.20171106184752.1" a="E"><vh>大綱</vh>
 <v t="leo.20171107210654.1"><vh>內</vh></v>
 </v>
+<v t="leo.20180104102119.1" a="E"><vh>自訂義啟動與關閉</vh>
+<v t="leo.20180104102131.1"><vh>內</vh></v>
+</v>
+<v t="leo.20180109200001.1" a="E"><vh>學習計算機輸入數字寫法</vh>
+<v t="leo.20180109200003.1"><vh>內</vh></v>
+</v>
+<v t="leo.20180109200006.1" a="E"><vh>DiaPortable 與 GIMPPortable 的使用</vh>
+<v t="leo.20180109200006.2"><vh>內</vh></v>
+</v>
 </v>
 <v t="leo.20180104083525.1" a="E"><vh>W13-W15</vh>
 <v t="leo.20180104083549.1" a="E"><vh>大綱</vh>
 <v t="leo.20180104083800.1"><vh>內</vh></v>
 </v>
 </v>
-<v t="leo.20180104083614.1" a="E"><vh>W16-W18</vh>
+<v t="leo.20180104083614.1"><vh>W16-W18</vh>
 <v t="leo.20180104083615.1" a="E"><vh>大綱</vh>
 <v t="leo.20180104083802.1"><vh>內</vh></v>
 </v>
@@ -565,7 +574,20 @@ g.es("admin pelican Github 執行完畢")
 * 將影片上傳至[YouTube](https://www.youtube.com/channel/UCccnjAT8pRCnXflMM0zI4Lg/videos?sort=dd&amp;view_as=subscriber&amp;view=0&amp;shelf_id=0)與[Vimeo](https://vimeo.com/241698271)並嵌入網誌
 * 拉出完整的計算機表單
 </t>
-<t tx="leo.20171107210654.1"># W10-W12
+<t tx="leo.20171107210654.1"># W10-W12 檢討週
+
+
+* 自訂義啟動與關閉
+* 學習計算機輸入數字寫法
+* DiaPortable 與 GIMPPortable 的使用 
+* Github創建
+
+
+[W10 blog](https://40623122.github.io/W16/blog/40623122-w10.html)
+
+[W11 blog](https://40623122.github.io/W16/blog/40623122-w11.html)
+
+[W12 blog](https://40623122.github.io/W16/blog/40623122-w12.html)
 
 
 </t>
@@ -732,8 +754,57 @@ for i in range(10):
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180104083800.1"># W13-W15</t>
+<t tx="leo.20180104083800.1"># W13-W15 專案執行週
+
+* 創建EtherCalc表單
+* 與組員協同製作計算機基本功能
+* 驗收計算機成果
+
+[W13 blog](https://40623122.github.io/W16/blog/40623122-w13.html)
+
+[W14 blog](https://40623122.github.io/W16/blog/40623122-w14.html)
+
+[W15 blog](https://40623122.github.io/W16/blog/40623122-w15.html)</t>
 <t tx="leo.20180104083802.1"># W16-W18</t>
+<t tx="leo.20180104102119.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180104102131.1">### 自訂義啟動與關閉
+
+改寫star.bat與stop.bat成自訂義形式</t>
+<t tx="leo.20180109200001.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109200003.1">## 學習計算機輸入數字寫法
+
+(for迴圈簡化程式)
+
+```
+@language python
+number = [self.zero, self.one,  self.two,  self.three,   self.four,  self.five,
+    self.six, self.seven,  self.eight,  self.nine]
+    for i in number:
+        i.clicked.connect(self.digitClicked)
+```</t>
+<t tx="leo.20180109200006.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109200006.2">### Dia 與 GIM 的軟體使用
+
+* 使用DiaPortable 畫出更流線的箭頭
+
+&lt;img src="https://cpa.kmol.info/40623122/raw/1290f8b0d92fa121f5dc1b69b784fc6cee1c6c55bb366244699299b588e5750b?m=image/jpeg" width="190" height="190"&gt;&lt;/a&gt; 
+
+* 使用GIMPPortable 裁剪圖片
+
+&lt;img src="https://cpa.kmol.info/40623122/raw/74f225aed36e4f1af1808edc0bd387c65bd1706a3f358ea63af78e97b3ee8ea7?m=image/jpeg" width="200" height="200"&gt;&lt;/a&gt;
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
