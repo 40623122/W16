@@ -121,7 +121,7 @@
 <v t="leo.20180104083549.1" a="E"><vh>大綱</vh>
 <v t="leo.20180104083800.1"><vh>內</vh></v>
 </v>
-<v t="leo.20180109202013.1"><vh>創建EtherCalc表單</vh>
+<v t="leo.20180109202013.1" a="E"><vh>創建EtherCalc表單</vh>
 <v t="leo.20180109202013.2"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20180109201916.1" a="E"><vh>與組員協同製作計算機基本功能</vh>
@@ -842,8 +842,7 @@ number = [self.zero, self.one,  self.two,  self.three,   self.four,  self.five,
 &lt;/section&gt;</t>
 <t tx="leo.20180109201913.1">###個人操作影片
 
-&lt;iframe src="https://youtu.be/j4PjXR1L0-0" width="640" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/j4PjXR1L0-0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180109201916.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
