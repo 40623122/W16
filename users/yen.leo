@@ -110,10 +110,10 @@
 <v t="leo.20180104102119.1" a="E"><vh>自訂義啟動與關閉</vh>
 <v t="leo.20180104102131.1"><vh>內</vh></v>
 </v>
-<v t="leo.20180109200001.1" a="E"><vh>學習計算機輸入數字寫法</vh>
+<v t="leo.20180109200001.1"><vh>學習計算機輸入數字寫法</vh>
 <v t="leo.20180109200003.1"><vh>內</vh></v>
 </v>
-<v t="leo.20180109200006.1" a="E"><vh>DiaPortable 與 GIMPPortable 的使用</vh>
+<v t="leo.20180109200006.1"><vh>DiaPortable 與 GIMPPortable 的使用</vh>
 <v t="leo.20180109200006.2"><vh>內</vh></v>
 </v>
 </v>
@@ -121,10 +121,34 @@
 <v t="leo.20180104083549.1" a="E"><vh>大綱</vh>
 <v t="leo.20180104083800.1"><vh>內</vh></v>
 </v>
+<v t="leo.20180109202013.1"><vh>創建EtherCalc表單</vh>
+<v t="leo.20180109202013.2"><vh>newHeadline</vh></v>
 </v>
-<v t="leo.20180104083614.1"><vh>W16-W18</vh>
-<v t="leo.20180104083615.1" a="E"><vh>大綱</vh>
+<v t="leo.20180109201916.1" a="E"><vh>與組員協同製作計算機基本功能</vh>
+<v t="leo.20180109201918.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180109201912.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180109201913.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180109201908.1"><vh>newHeadline</vh>
+<v t="leo.20180109201909.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+<v t="leo.20180104083614.1" a="E"><vh>W16-W18</vh>
+<v t="leo.20180104083615.1"><vh>大綱</vh>
 <v t="leo.20180104083802.1"><vh>內</vh></v>
+</v>
+<v t="leo.20180109201943.1"><vh>newHeadline</vh>
+<v t="leo.20180109201944.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180109201940.1"><vh>newHeadline</vh>
+<v t="leo.20180109201940.2"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180109201938.1"><vh>newHeadline</vh>
+<v t="leo.20180109201938.2"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20180109201946.1"><vh>newHeadline</vh>
+<v t="leo.20180109201947.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20170911090822.1"><vh>隨身碟內容介紹</vh>
@@ -799,12 +823,67 @@ number = [self.zero, self.one,  self.two,  self.three,   self.four,  self.five,
 
 * 使用DiaPortable 畫出更流線的箭頭
 
-&lt;img src="https://cpa.kmol.info/40623122/raw/1290f8b0d92fa121f5dc1b69b784fc6cee1c6c55bb366244699299b588e5750b?m=image/jpeg" width="190" height="190"&gt;&lt;/a&gt; 
+&lt;img src="https://github.com/40623122/W16/blob/gh-pages/data/img/dia.jpg?raw=true" width="190" height="190"&gt;&lt;/a&gt; 
 
 * 使用GIMPPortable 裁剪圖片
 
-&lt;img src="https://cpa.kmol.info/40623122/raw/74f225aed36e4f1af1808edc0bd387c65bd1706a3f358ea63af78e97b3ee8ea7?m=image/jpeg" width="200" height="200"&gt;&lt;/a&gt;
+&lt;img src="https://github.com/40623122/W16/blob/gh-pages/data/img/gim.jpg?raw=true" width="200" height="200"&gt;&lt;/a&gt;
 </t>
+<t tx="leo.20180109201908.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109201909.1"></t>
+<t tx="leo.20180109201912.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109201913.1">###個人操作影片
+
+&lt;iframe src="https://youtu.be/j4PjXR1L0-0" width="640" height="490" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20180109201916.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109201918.1">### 計算機驗收
+
+與組員們使用github協同製作計算機基本功能包括加減乘除等並排除衝突
+
+[期末協同專案倉儲](https://github.com/40623122/ag5_pyqt5_calculator)</t>
+<t tx="leo.20180109201938.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109201938.2"></t>
+<t tx="leo.20180109201940.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109201940.2"></t>
+<t tx="leo.20180109201943.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109201944.1"></t>
+<t tx="leo.20180109201946.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109201947.1"></t>
+<t tx="leo.20180109202013.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180109202013.2"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
