@@ -110,10 +110,10 @@
 <v t="leo.20180104102119.1" a="E"><vh>自訂義啟動與關閉</vh>
 <v t="leo.20180104102131.1"><vh>內</vh></v>
 </v>
-<v t="leo.20180109200001.1"><vh>學習計算機輸入數字寫法</vh>
+<v t="leo.20180109200001.1" a="E"><vh>學習計算機輸入數字寫法</vh>
 <v t="leo.20180109200003.1"><vh>內</vh></v>
 </v>
-<v t="leo.20180109200006.1"><vh>DiaPortable 與 GIMPPortable 的使用</vh>
+<v t="leo.20180109200006.1" a="E"><vh>DiaPortable 與 GIMPPortable 的使用</vh>
 <v t="leo.20180109200006.2"><vh>內</vh></v>
 </v>
 </v>
@@ -135,11 +135,11 @@
 </v>
 </v>
 <v t="leo.20180104083614.1" a="E"><vh>W16-W18</vh>
-<v t="leo.20180104083615.1"><vh>大綱</vh>
+<v t="leo.20180104083615.1" a="E"><vh>大綱</vh>
 <v t="leo.20180104083802.1"><vh>內</vh></v>
 </v>
-<v t="leo.20180109201943.1"><vh>newHeadline</vh>
-<v t="leo.20180109201944.1"><vh>newHeadline</vh></v>
+<v t="leo.20180109201943.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180109201944.1"><vh>心得</vh></v>
 </v>
 <v t="leo.20180109201940.1"><vh>newHeadline</vh>
 <v t="leo.20180109201940.2"><vh>newHeadline</vh></v>
@@ -780,16 +780,22 @@ for i in range(10):
 &lt;/section&gt;</t>
 <t tx="leo.20180104083800.1"># W13-W15 專案執行週
 
-* 創建EtherCalc表單
+* 創建自己的EtherCalc表單
 * 與組員協同製作計算機基本功能
 * 驗收計算機成果
+* 利用Pandoc 與 MikTeX協同編寫期末報告
 
 [W13 blog](https://40623122.github.io/W16/blog/40623122-w13.html)
 
 [W14 blog](https://40623122.github.io/W16/blog/40623122-w14.html)
 
 [W15 blog](https://40623122.github.io/W16/blog/40623122-w15.html)</t>
-<t tx="leo.20180104083802.1"># W16-W18</t>
+<t tx="leo.20180104083802.1"># W16-W18
+
+* 完成個人簡報及分組報告,並利用錄影程式記錄完整的操作影片上傳至Youtube .Vimeo 推送至Github
+
+
+[期末協同報告繳交](https://github.com/scrum-1/scrum_pyqt5_calculator/issues)</t>
 <t tx="leo.20180104102119.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -797,7 +803,8 @@ for i in range(10):
 &lt;/section&gt;</t>
 <t tx="leo.20180104102131.1">### 自訂義啟動與關閉
 
-改寫star.bat與stop.bat成自訂義形式</t>
+改寫start.bat與stop.bat成自訂義形式
+可以整合 launchLeo.py, 讓系統啟動時, 自行建立進入特定目錄的命令列視窗, 並且自動開啟特定 Leo Editor 專案</t>
 <t tx="leo.20180109200001.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -821,7 +828,7 @@ number = [self.zero, self.one,  self.two,  self.three,   self.four,  self.five,
 &lt;/section&gt;</t>
 <t tx="leo.20180109200006.2">### Dia 與 GIM 的軟體使用
 
-* 使用DiaPortable 畫出更流線的箭頭
+* 使用DiaPortable 畫出多樣式的箭頭
 
 &lt;img src="https://github.com/40623122/W16/blob/gh-pages/data/img/dia.jpg?raw=true" width="190" height="190"&gt;&lt;/a&gt; 
 
@@ -850,7 +857,7 @@ number = [self.zero, self.one,  self.two,  self.three,   self.four,  self.five,
 &lt;/section&gt;</t>
 <t tx="leo.20180109201918.1">### 計算機驗收
 
-與組員們使用github協同製作計算機基本功能包括加減乘除等並排除衝突
+    與組員們使用GitHub協同製作計算機基本功能包括加減乘除等並排除衝突
 
 [期末協同專案倉儲](https://github.com/40623122/ag5_pyqt5_calculator)</t>
 <t tx="leo.20180109201938.1">&lt;section data-markdown&gt;
@@ -870,7 +877,11 @@ number = [self.zero, self.one,  self.two,  self.three,   self.four,  self.five,
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180109201944.1"></t>
+<t tx="leo.20180109201944.1">###學習心得
+
+
+
+* 經過這學期的時間，從原本完全陌生到現在終於有些進展，想必我所觸及的都只是冰山一角，並了解到個人的力量的真非常微弱，如果沒有將工作分配好，會造成整個作業上的大混亂，過程中雖然到處碰壁，但將錯誤排除時非常有成就感，希望日後會慢慢的了解更多的程式語法與其中的樂趣。</t>
 <t tx="leo.20180109201946.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -882,7 +893,19 @@ number = [self.zero, self.one,  self.two,  self.three,   self.four,  self.five,
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180109202013.2"></t>
+<t tx="leo.20180109202013.2">## 創建EtherCalc表單
+
+創建EtherCalc表單
+
+
+
+    透過課堂上所學的 -&gt;了解如何使用-&gt;  
+    理解為何學習 -&gt; 自行攝取更多的課外的知識 -&gt;
+    並用錄影或筆記將重記錄下來
+
+
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
