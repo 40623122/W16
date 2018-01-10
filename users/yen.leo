@@ -874,7 +874,7 @@ number = [self.zero, self.one,  self.two,  self.three,   self.four,  self.five,
 <t tx="leo.20180109201940.2">###筆記
 
 
-&lt;img src="https://cphttps://github.com/40623122/W16/blob/gh-pages/data/img/12714.jpg?raw=true" width="300" height="300"&gt;&lt;/a&gt;</t>
+&lt;img src="https://github.com/40623122/W16/blob/gh-pages/data/img/12714.jpg?raw=true" width="300" height="400"&gt;&lt;/a&gt;</t>
 <t tx="leo.20180109201943.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
