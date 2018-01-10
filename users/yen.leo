@@ -49,10 +49,10 @@
 <v t="yen.20170108171733.11" a="E"><vh>body</vh>
 <v t="yen.20170108171733.12" a="E"><vh>reveal div</vh>
 <v t="yen.20170108171733.13" a="E"><vh>slides div</vh>
-<v t="yen.20170108171733.14"><vh>封面投影片</vh>
+<v t="yen.20170108171733.14" a="E"><vh>封面投影片</vh>
 <v t="yen.20170108171733.15"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170108171733.16"><vh>W1-W3</vh>
+<v t="yen.20170108171733.16" a="E"><vh>W1-W3</vh>
 <v t="leo.20171106181646.1"><vh>大綱</vh>
 <v t="leo.20171106182859.1"><vh>內</vh></v>
 </v>
@@ -107,14 +107,17 @@
 <v t="leo.20171106184752.1" a="E"><vh>大綱</vh>
 <v t="leo.20171107210654.1"><vh>內</vh></v>
 </v>
-<v t="leo.20180104102119.1" a="E"><vh>自訂義啟動與關閉</vh>
+<v t="leo.20180104102119.1"><vh>自訂義啟動與關閉</vh>
 <v t="leo.20180104102131.1"><vh>內</vh></v>
 </v>
-<v t="leo.20180109200001.1" a="E"><vh>學習計算機輸入數字寫法</vh>
+<v t="leo.20180109200001.1"><vh>學習計算機輸入數字寫法</vh>
 <v t="leo.20180109200003.1"><vh>內</vh></v>
 </v>
-<v t="leo.20180109200006.1" a="E"><vh>DiaPortable 與 GIMPPortable 的使用</vh>
+<v t="leo.20180109200006.1"><vh>DiaPortable 與 GIMPPortable 的使用</vh>
 <v t="leo.20180109200006.2"><vh>內</vh></v>
+</v>
+<v t="leo.20180110185401.1" a="E"><vh>網誌</vh>
+<v t="leo.20180110185402.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 <v t="leo.20180104083525.1" a="E"><vh>W13-W15</vh>
@@ -122,16 +125,16 @@
 <v t="leo.20180104083800.1"><vh>內</vh></v>
 </v>
 <v t="leo.20180109202013.1" a="E"><vh>創建EtherCalc表單</vh>
-<v t="leo.20180109202013.2"><vh>newHeadline</vh></v>
+<v t="leo.20180109202013.2"><vh>內</vh></v>
 </v>
 <v t="leo.20180109201916.1" a="E"><vh>與組員協同製作計算機基本功能</vh>
-<v t="leo.20180109201918.1"><vh>newHeadline</vh></v>
+<v t="leo.20180109201918.1"><vh>內</vh></v>
 </v>
-<v t="leo.20180109201912.1" a="E"><vh>newHeadline</vh>
-<v t="leo.20180109201913.1"><vh>newHeadline</vh></v>
+<v t="leo.20180109201912.1" a="E"><vh>個人操作影片</vh>
+<v t="leo.20180109201913.1"><vh>內</vh></v>
 </v>
-<v t="leo.20180109201908.1"><vh>newHeadline</vh>
-<v t="leo.20180109201909.1"><vh>newHeadline</vh></v>
+<v t="leo.20180109201908.1" a="E"><vh>網誌</vh>
+<v t="leo.20180109201909.1"><vh>內</vh></v>
 </v>
 </v>
 <v t="leo.20180104083614.1" a="E"><vh>W16-W18</vh>
@@ -142,13 +145,10 @@
 <v t="leo.20180109201944.1"><vh>心得</vh></v>
 </v>
 <v t="leo.20180109201940.1" a="E"><vh>筆記</vh>
-<v t="leo.20180109201940.2"><vh>newHeadline</vh></v>
+<v t="leo.20180109201940.2"><vh>內</vh></v>
 </v>
-<v t="leo.20180109201938.1"><vh>newHeadline</vh>
-<v t="leo.20180109201938.2"><vh>newHeadline</vh></v>
-</v>
-<v t="leo.20180109201946.1"><vh>newHeadline</vh>
-<v t="leo.20180109201947.1"><vh>newHeadline</vh></v>
+<v t="leo.20180109201938.1" a="E"><vh>課程評分</vh>
+<v t="leo.20180109201938.2"><vh>內</vh></v>
 </v>
 </v>
 <v t="leo.20170911090822.1"><vh>隨身碟內容介紹</vh>
@@ -188,7 +188,7 @@
 <v t="leo.20170913104957.2"><vh>SCM 的整體目標</vh></v>
 </v>
 </v>
-<v t="leo.20170911095149.1"><vh>課程評分</vh>
+<v t="leo.20170911095149.1" a="E"><vh>課程評分</vh>
 <v t="leo.20170911095149.2" a="E"><vh>課程評分</vh>
 <v t="leo.20170911095149.3"><vh>如何評分</vh></v>
 </v>
@@ -604,14 +604,8 @@ g.es("admin pelican Github 執行完畢")
 * 自訂義啟動與關閉
 * 學習計算機輸入數字寫法
 * DiaPortable 與 GIMPPortable 的使用 
-* Github創建
+* GitHub創建
 
-
-[W10 blog](https://40623122.github.io/W16/blog/40623122-w10.html)
-
-[W11 blog](https://40623122.github.io/W16/blog/40623122-w11.html)
-
-[W12 blog](https://40623122.github.io/W16/blog/40623122-w12.html)
 
 
 </t>
@@ -785,11 +779,7 @@ for i in range(10):
 * 驗收計算機成果
 * 利用Pandoc 與 MikTeX協同編寫期末報告
 
-[W13 blog](https://40623122.github.io/W16/blog/40623122-w13.html)
-
-[W14 blog](https://40623122.github.io/W16/blog/40623122-w14.html)
-
-[W15 blog](https://40623122.github.io/W16/blog/40623122-w15.html)</t>
+</t>
 <t tx="leo.20180104083802.1"># W16-W18
 
 * 完成個人簡報及分組報告,並利用錄影程式記錄完整的操作影片上傳至Youtube .Vimeo 推送至Github
@@ -841,7 +831,14 @@ number = [self.zero, self.one,  self.two,  self.three,   self.four,  self.five,
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180109201909.1"></t>
+<t tx="leo.20180109201909.1">###網誌
+
+
+[W13 blog](https://40623122.github.io/W16/blog/40623122-w13.html)
+
+[W14 blog](https://40623122.github.io/W16/blog/40623122-w14.html)
+
+[W15 blog](https://40623122.github.io/W16/blog/40623122-w15.html)</t>
 <t tx="leo.20180109201912.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -865,7 +862,17 @@ number = [self.zero, self.one,  self.two,  self.three,   self.four,  self.five,
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180109201938.2"></t>
+<t tx="leo.20180109201938.2">##自評成績
+
+####出席 (20%): 18 分    
+
+####平時表現 (30%): 23 分 
+
+####驗收考試 (30%):20 分 
+
+####驗收簡報 (20%): 15 分 
+
+####總分   :  76 分</t>
 <t tx="leo.20180109201940.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -874,7 +881,8 @@ number = [self.zero, self.one,  self.two,  self.three,   self.four,  self.five,
 <t tx="leo.20180109201940.2">###筆記
 
 
-&lt;img src="https://github.com/40623122/W16/blob/gh-pages/data/img/12714.jpg?raw=true" width="300" height="400"&gt;&lt;/a&gt;</t>
+&lt;img src="https://github.com/40623122/W16/blob/gh-pages/data/img/12714.jpg?raw=true" width="300" height="400"&gt;&lt;/a&gt;
+&lt;img src="https://github.com/40623122/W16/blob/gh-pages/data/img/12713.jpg?raw=true" width="300" height="400"&gt;&lt;/a&gt;</t>
 <t tx="leo.20180109201943.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -885,12 +893,6 @@ number = [self.zero, self.one,  self.two,  self.three,   self.four,  self.five,
 
 
 * 經過這學期的時間，從原本完全陌生到現在終於有些進展，想必我所觸及的都只是冰山一角，並了解到個人的力量的真非常微弱，如果沒有將工作分配好，會造成整個作業上的大混亂，過程中雖然到處碰壁，但將錯誤排除時非常有成就感，希望日後會慢慢的了解更多的程式語法與其中的樂趣。</t>
-<t tx="leo.20180109201946.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20180109201947.1"></t>
 <t tx="leo.20180109202013.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -908,6 +910,20 @@ number = [self.zero, self.one,  self.two,  self.three,   self.four,  self.five,
 
 
 
+</t>
+<t tx="leo.20180110185401.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20180110185402.1">###網誌
+
+
+[W10 blog](https://40623122.github.io/W16/blog/40623122-w10.html)
+
+[W11 blog](https://40623122.github.io/W16/blog/40623122-w11.html)
+
+[W12 blog](https://40623122.github.io/W16/blog/40623122-w12.html)
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
@@ -1081,7 +1097,7 @@ vertical: body pane on the botton</t>
 設計一甲 40623122 蔡柄澤
 
 &lt;small&gt;
-Created by [40623122](https://cpa.kmol.info/40623122/doc/trunk/blog/)
+Created by [40623122](https://40623122.github.io/W16/blog/)
 &lt;/small&gt;
 
 [40623122 的 CP 課程網誌](blog/index.html)
