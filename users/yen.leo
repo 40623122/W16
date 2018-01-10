@@ -138,10 +138,10 @@
 <v t="leo.20180104083615.1" a="E"><vh>大綱</vh>
 <v t="leo.20180104083802.1"><vh>內</vh></v>
 </v>
-<v t="leo.20180109201943.1" a="E"><vh>newHeadline</vh>
+<v t="leo.20180109201943.1" a="E"><vh>心得</vh>
 <v t="leo.20180109201944.1"><vh>心得</vh></v>
 </v>
-<v t="leo.20180109201940.1"><vh>newHeadline</vh>
+<v t="leo.20180109201940.1" a="E"><vh>筆記</vh>
 <v t="leo.20180109201940.2"><vh>newHeadline</vh></v>
 </v>
 <v t="leo.20180109201938.1"><vh>newHeadline</vh>
@@ -871,7 +871,10 @@ number = [self.zero, self.one,  self.two,  self.three,   self.four,  self.five,
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20180109201940.2"></t>
+<t tx="leo.20180109201940.2">###筆記
+
+
+&lt;img src="https://cphttps://github.com/40623122/W16/blob/gh-pages/data/img/12714.jpg?raw=true" width="300" height="300"&gt;&lt;/a&gt;</t>
 <t tx="leo.20180109201943.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
